@@ -9,7 +9,7 @@ Full-stack marketplace application for buying and selling board sports equipment
 All Board Trader is a production-style application designed to connect buyers and sellers of board sports gear through a structured and scalable platform.
 
 The system includes user authentication, listing management, and backend data handling.  
-Developed as part of a team over 900+ hours in a real-world development environment.
+
 
 ---
 
